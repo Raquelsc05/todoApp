@@ -8,4 +8,4 @@ O usuário poderá fazer projetos e se programar para faze-los sem perder os pra
 
 
 
-
+![alt text](https://cdn.1min30.com/wp-content/uploads/2018/06/logo-Capgemini-1.jpg) 
