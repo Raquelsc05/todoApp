@@ -22,3 +22,5 @@ https://user-images.githubusercontent.com/105187443/219968564-84f59a3d-e2fd-40d1
 ## 🚀 Sobre o programa
 É uma iniciativa da Capgemini para acelerar a formação de novos talentos em tecnologia, valorizando a inclusão e a diversidade, com cursos online gratuitos que, após finalizados, voce terá a chance de conquistar uma vaga no time Capgemini!
 
+Instrutor @marciomichelluzzi
+
