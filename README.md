@@ -4,7 +4,7 @@
 ## Sobre: 
 Projeto em JAVA como parte da trilha do programa Start by Capgemini.
 
-Descrição: Aplicação para gerenciamento de projeto e as tarefas envolvidas neste projeto.
+Descrição: Aplicação para gerenciamento de projeto e as tarefas envolvidas nele.
 
 Objetivo: Resolver a questão de organização de tarefas de um ou vários projetos.
 
